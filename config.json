@@ -1,0 +1,14 @@
+{
+	"cinemas": [
+		{
+			"name": "Boulevard Shopping",
+			"id": "boulevard_shopping",
+			"url": "https://boulevardshoppingbauru.com.br/aliansce/shopping/rest/cinema/filmes.json"
+		},
+		{
+			"name": "Bauru Shopping",
+			"id": "bauru_shopping",
+			"url": "https://sites.madnezz.com.br/api/site/json/cinema_ingressocom.asp?shopping_id=22"
+		}
+	]
+}
