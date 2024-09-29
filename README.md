@@ -7,7 +7,7 @@ Basicamente pra reduzir o tempo que eu gasto tendo que abrir 2 sites diferentes 
 - Boulevard Shopping
 
 # Exemplo
-![Usage example](image.png)
+![Usage example](https://github.com/ropoko/cinemas-bauru-list/blob/main/screenshots/image.png)
 
 # Comandos
 ## -- Cinema
